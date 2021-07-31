@@ -1,6 +1,6 @@
 [flake8]
-exclude = unset
-  migrations
-  manage.py
-  settings.py
+exclude =
+  migrations,
+  manage.py,
+  settings.py,
 
